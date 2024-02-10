@@ -3,9 +3,9 @@ Comparing machine learning methods in heterogeneous graph recommender systems
 
 ## References
 
-[1] [Wang et al., 2021] Shoujin Wang, Liang Hu, Yan Wang, et al. Graph Learning based Recommender Systems: A 
+- [Wang et al., 2021] Shoujin Wang, Liang Hu, Yan Wang, et al. Graph Learning based Recommender Systems: A 
 Review. arXiv preprint arXiv:2105.06339v1 [cs.IR] 13 May 2021
-[2] [Berg, et al., 2017] Rianne van den Berg, Thomas N. Kipf, and Max Welling. Graph Convolutional Matrix 
+- [Berg, et al., 2017] Rianne van den Berg, Thomas N. Kipf, and Max Welling. Graph Convolutional Matrix 
 Completion. arXiv preprint arXiv:1706.02263v2 [stat.ML] 25 Oct 2017.
 [3] [Hamilton et al., 2018]. William L. Hamilton, Rex Ying, and Jure Leskovec. Inductive Representation Learning on 
 Large Graphs. arXiv preprint arXiv:1706.02216v4 [cs.SI] 10 Sep 2018.
