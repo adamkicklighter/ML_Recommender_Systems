@@ -13,6 +13,10 @@ All the MLP regressor iterations outperformed the HinSAGE experiment. The worst 
     <img src="https://github.com/adamkicklighter/ML_Recommender_Systems/assets/97848631/2dbd4653-71e4-4299-9eaa-ef53678b1b26" alt="image">
 </div>
 
+<div style="text-align: left;">
+    <img src="https://github.com/adamkicklighter/ML_Recommender_Systems/assets/97848631/2dbd4653-71e4-4299-9eaa-ef53678b1b26" alt="image">
+</div>
+
 
 ## References
 
