@@ -10,8 +10,7 @@ Completion. arXiv preprint arXiv:1706.02263v2 [stat.ML] 25 Oct 2017.
 - [Hamilton et al., 2018]. William L. Hamilton, Rex Ying, and Jure Leskovec. Inductive Representation Learning on 
 Large Graphs. arXiv preprint arXiv:1706.02216v4 [cs.SI] 10 Sep 2018.
 - [Maksimov et al., 2020] Ivan Maksimov, Rodrigo Rivera-Castro, and Evgeny Burnaev. Addressing Cold Start in 
-Recommender Systems with Hierarchical Graph Neural Networks. arXiv preprint arXiv:2009.03455v2 [cs.LG] 1 Dec 
-2020.
+Recommender Systems with Hierarchical Graph Neural Networks. arXiv preprint arXiv:2009.03455v2 [cs.LG] 1 Dec 2020.
 - [James Currier et al., 2022] James Currier and the NFX Team. The Network Effects Bible. 
 https://www.nfx.com/post/network-effects-bible
 - Russell Reed, Robert J Marks II. Neural Smithing: Supervised Learning in Feedforward Artificial Neural Networks. 
