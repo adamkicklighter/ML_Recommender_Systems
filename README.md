@@ -25,6 +25,7 @@ All the MLP regressor iterations outperformed the HinSAGE experiment. The worst 
     <img src="https://github.com/adamkicklighter/ML_Recommender_Systems/assets/97848631/82fa4592-f69e-4a9e-9d64-0cacb6e3644a" alt="image" style="display: inline-block;">
 </div>
 
+
 ## Conclusions
 
 The MLP regressor produced superior results to the HinSAGE algorithm and would thus lead to a better Graph Learning based Recommender System. Given its lower root mean square error and mean absolute error across all architecture varieties, the perceptron algorithm was better able to predict the rating a user would assign to a movie. Implementing this capability into a GLRS would mean that the MLP regressor could predict the score a user would assign an unseen movie and the system could rank those unseen movies from high-to-low before presenting the user with the movies with the highest predicted ratings as recommendations for viewing. <br>
