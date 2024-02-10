@@ -7,20 +7,20 @@ Comparing machine learning methods in heterogeneous graph recommender systems
 Review. arXiv preprint arXiv:2105.06339v1 [cs.IR] 13 May 2021
 - [Berg, et al., 2017] Rianne van den Berg, Thomas N. Kipf, and Max Welling. Graph Convolutional Matrix 
 Completion. arXiv preprint arXiv:1706.02263v2 [stat.ML] 25 Oct 2017.
-[3] [Hamilton et al., 2018]. William L. Hamilton, Rex Ying, and Jure Leskovec. Inductive Representation Learning on 
+- [Hamilton et al., 2018]. William L. Hamilton, Rex Ying, and Jure Leskovec. Inductive Representation Learning on 
 Large Graphs. arXiv preprint arXiv:1706.02216v4 [cs.SI] 10 Sep 2018.
-[4] [Maksimov et al., 2020] Ivan Maksimov, Rodrigo Rivera-Castro, and Evgeny Burnaev. Addressing Cold Start in 
+- [Maksimov et al., 2020] Ivan Maksimov, Rodrigo Rivera-Castro, and Evgeny Burnaev. Addressing Cold Start in 
 Recommender Systems with Hierarchical Graph Neural Networks. arXiv preprint arXiv:2009.03455v2 [cs.LG] 1 Dec 
 2020.
-[5] [James Currier et al., 2022] James Currier and the NFX Team. The Network Effects Bible. 
+- [James Currier et al., 2022] James Currier and the NFX Team. The Network Effects Bible. 
 https://www.nfx.com/post/network-effects-bible
-[6] Russell Reed, Robert J Marks II. Neural Smithing: Supervised Learning in Feedforward Artificial Neural Networks. 
+- Russell Reed, Robert J Marks II. Neural Smithing: Supervised Learning in Feedforward Artificial Neural Networks. 
 Bradford Books. 1999.
-[7] Link Prediction with Heterogenous GraphSAGE (HinSAGE). https://stellargraph.readthedocs.io/en/stable/demos/linkprediction/hinsage-link-prediction.html
-[8] F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions 
+- Link Prediction with Heterogenous GraphSAGE (HinSAGE). https://stellargraph.readthedocs.io/en/stable/demos/linkprediction/hinsage-link-prediction.html
+- F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions 
 on Interactive Intelligent Systems (TiiS) 5, 4, Article 19 (December 2015), 19 pages.
 DOI=http://dx.doi.org/10.1145/2827872
-[9] MovieLens 100K READ ME. https://files.grouplens.org/datasets/movielens/ml-100k-README.txt
-[10] StellarGraph Documentation. Heterogenous GraphSAGE (HinSAGE). 
+- MovieLens 100K READ ME. https://files.grouplens.org/datasets/movielens/ml-100k-README.txt
+- StellarGraph Documentation. Heterogenous GraphSAGE (HinSAGE). 
 https://stellargraph.readthedocs.io/en/stable/hinsage.html
-[11] MLPRegressor Documentation. https://scikitlearn.org/stable/modules/generated/sklearn.neural_network.MLPRegressor.html
+- MLPRegressor Documentation. https://scikitlearn.org/stable/modules/generated/sklearn.neural_network.MLPRegressor.html
