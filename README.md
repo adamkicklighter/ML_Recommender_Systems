@@ -5,6 +5,11 @@ Comparing machine learning methods in heterogeneous graph recommender systems
 
 This project compares two approaches in formulating a Graph Learning Recommender System to make predictions on unseen nodes in a heterogeneous graph and determine the superior method in an experiment on benchmark data. The first approach applies an extension of the GraphSAGE family of algorithms to make predictions based on low-dimensional link embeddings of the graph structure. The second approach uses a matrix of one-hot encoded features to create unique vectors for user-item combinations and then predicts user ratings as node attributes via a feed forward multilayer perceptron. Given that a multilayer perceptron with at least one hidden layer can universally approximate any measurable function, can an MLP regressor (with appropriate feature engineering) perform comparably to an implementation of the GraphSAGE family? Comparing these two models will illustrate which best solves the simultaneous issue of handling dynamically evolving large graphs and handling cold-start data points in a network.
 
+## Findings
+
+![image](https://github.com/adamkicklighter/ML_Recommender_Systems/assets/97848631/2dbd4653-71e4-4299-9eaa-ef53678b1b26)
+
+
 ## References
 
 - [Wang et al., 2021] Shoujin Wang, Liang Hu, Yan Wang, et al. Graph Learning based Recommender Systems: A 
