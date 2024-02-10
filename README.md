@@ -7,6 +7,8 @@ This project compares two approaches in formulating a Graph Learning Recommender
 
 ## Findings
 
+All the MLP regressor iterations outperformed the HinSAGE experiment. The worst performing variation (single layer, node attributes excluded, training partition of 30%) produced an RMSE 6.5% better than the HinSAGE results (0.968 vs 1.036). The best performing iteration (2 layers with node attributes and a training partition of 90%) produced an RMSE improvement of 9.4% (0.939 vs 1.036). However, said training partition is rather large in practice and would raise questions of over-fitting with poor generalization in production. As a result, the following analysis and interpretation will focus on comparable training partitions to the HinSAGE experiment at 70% of the dataframe.
+
 <div align="center">
     <img src="https://github.com/adamkicklighter/ML_Recommender_Systems/assets/97848631/2dbd4653-71e4-4299-9eaa-ef53678b1b26" alt="image">
 </div>
