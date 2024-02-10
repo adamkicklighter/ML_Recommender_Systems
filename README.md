@@ -7,7 +7,7 @@ This project compares two approaches in formulating a Graph Learning Recommender
 
 ## Findings
 
-![image](https://github.com/adamkicklighter/ML_Recommender_Systems/assets/97848631/2dbd4653-71e4-4299-9eaa-ef53678b1b26)
+<div align="center>![image](https://github.com/adamkicklighter/ML_Recommender_Systems/assets/97848631/2dbd4653-71e4-4299-9eaa-ef53678b1b26)</div>
 
 
 ## References
